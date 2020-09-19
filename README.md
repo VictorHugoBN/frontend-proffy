@@ -23,15 +23,15 @@ Este projeto foi baseado na **Next Level Week #2**, realizado pela [Rockseat](ht
  
  ## :computer: Tela Inicial do Site
  
- ![Tela Inicial](https://github.com/VictorHugoBN/NLW2/blob/master/githubfiles/TelaInicial.PNG)
+ ![Tela Inicial](https://github.com/VictorHugoBN/web/blob/master/githubfiles/TelaInicial.PNG)
  
  ## :computer: Tela de Cadastro de Professores
  
- ![Tela de Cadastro de Professores](https://github.com/VictorHugoBN/NLW2/blob/master/githubfiles/CadastroProffy1.PNG)
+ ![Tela de Cadastro de Professores](https://github.com/VictorHugoBN/web/blob/master/githubfiles/CadastroProffy1.PNG)
  
- ![Tela de Cadastro de Professores 2](https://github.com/VictorHugoBN/NLW2/blob/master/githubfiles/CadastroProffy2.PNG)
+ ![Tela de Cadastro de Professores 2](https://github.com/VictorHugoBN/web/blob/master/githubfiles/CadastroProffy2.PNG)
  
  ## :computer: Tela de Busca de Professores
  
- ![Tela de Busca de Professores](https://github.com/VictorHugoBN/NLW2/blob/master/githubfiles/TelaProcuraProffy.PNG)
+ ![Tela de Busca de Professores](https://github.com/VictorHugoBN/web/blob/master/githubfiles/TelaProcuraProffy.PNG)
  
