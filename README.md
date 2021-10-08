@@ -1,6 +1,5 @@
 # NLW2
 
-# Link da demo do Heroku: https://nlwproffyvictor.herokuapp.com/
 
 ## :heavy_exclamation_mark: Informações
 
